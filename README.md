@@ -2,29 +2,29 @@
 
 ## Goal.com Page/Load Type Analysis
 
-### 1. Live Event Coverage
-- **Description**: Pages dedicated to live coverage of sports events, including live scores, real-time updates, and commentary.
-- **Potential Peak Load Factors**: High user engagement during major events, continuous data updates.
+1. **Live Event Coverage**:
+   - **Description**: Pages dedicated to live coverage of sports events, including live scores, real-time updates, and commentary.
+   - **Potential Peak Load Factors**: High user engagement during major events, continuous data updates.
 
-### 2. Breaking News and Articles
-- **Description**: These pages feature the latest sports news, articles, and feature stories.
-- **Potential Peak Load Factors**: Spikes in traffic following major sports news or events, regular content refreshes.
+2. **Breaking News and Articles**:
+   - **Description**: These pages feature the latest sports news, articles, and feature stories.
+   - **Potential Peak Load Factors**: Spikes in traffic following major sports news or events, regular content refreshes.
 
-### 3. Statistical Analysis and Historical Data
-- **Description**: Comprehensive pages containing in-depth statistics, historical data, player and team performance analytics.
-- **Potential Peak Load Factors**: Intensive data queries, high computational load, potential scraping activities.
+3. **Statistical Analysis and Historical Data**:
+   - **Description**: Comprehensive pages containing in-depth statistics, historical data, player and team performance analytics.
+   - **Potential Peak Load Factors**: Intensive data queries, high computational load, potential scraping activities.
 
-### 4. Multimedia Content (Videos and Galleries)
-- **Description**: Pages hosting videos, photo galleries, and other multimedia content related to sports events and news.
-- **Potential Peak Load Factors**: High bandwidth usage, large file sizes impacting server load.
+4. **Multimedia Content (Videos and Galleries)**:
+   - **Description**: Pages hosting videos, photo galleries, and other multimedia content related to sports events and news.
+   - **Potential Peak Load Factors**: High bandwidth usage, large file sizes impacting server load.
 
-### 5. Community and Interaction
-- **Description**: Includes forums, comment sections, and social media integration where fans interact.
-- **Potential Peak Load Factors**: Variable user-generated content, spikes in usage during and after major events.
+5. **Community and Interaction**:
+   - **Description**: Includes forums, comment sections, and social media integration where fans interact.
+   - **Potential Peak Load Factors**: Variable user-generated content, spikes in usage during and after major events.
 
-### 6. E-commerce and Merchandising (GoalStudio)
-- **Description**: Online store for sports merchandise, including apparel, accessories, and memorabilia.
-- **Potential Peak Load Factors**: Traffic spikes during promotions, sales, and new product launches, transactional load.
+6. **E-commerce and Merchandising (GoalStudio)**:
+   - **Description**: Online store for sports merchandise, including apparel, accessories, and memorabilia.
+   - **Potential Peak Load Factors**: Traffic spikes during promotions, sales, and new product launches, transactional load.
 
 ## Possible solutions to the most common problems
 
